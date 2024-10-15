@@ -1,0 +1,4 @@
+﻿  LuckySevens.cpp
+C:\Users\JackO\OneDrive\Desktop\Coding Projects\Workshops\Workshop 2\LuckySevens\LuckySevens\LuckySevens.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\JackO\OneDrive\Desktop\Coding Projects\Workshops\Workshop 2\LuckySevens\LuckySevens\LuckySevens.cpp(25,10): warning C4101: 'play': unreferenced local variable
+  LuckySevens.vcxproj -> C:\Users\JackO\OneDrive\Desktop\Coding Projects\Workshops\Workshop 2\LuckySevens\x64\Debug\LuckySevens.exe
